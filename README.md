@@ -1,0 +1,2 @@
+# nums
+Basic wordlist generator
