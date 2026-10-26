@@ -5,4 +5,4 @@ Only for personal use so I don't really care about any vulnerabilities. Can gene
 
 E.g. If 2 is entered then every combination of numbers from 00 to 99 is generated.
 
-Good for making wordlists for OTP brute forcing and default numbered WiWi passwords.
+Good for making wordlists for OTP brute forcing and default numbered WiFi passwords.
